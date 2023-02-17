@@ -1,70 +1,79 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <h3 align="center">Multiverse Final Portfolio (Rene)</h3>
 
-## Available Scripts
+  <p align="center">
+    This repo is a collection of some of my learning contribution during my 2021-2023 apprenticeship at Box sponsored by Multiverse.
+  </p>
+</div>
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#overview">Overview</a></li>
+    <li><a href="#durable">Durable Skills (durable_projects)</a></li>
+    <li><a href="#technical">Technical Projects (technical_projects)</a></li>
+    <li><a href="#contact">Contact Me</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+<!-- Overview -->
+## Overview
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+During my time at Box, I delivered value through improvements and added functionality in existing E-commerce codebases while leading projects that drives company revenue, such as cancellation flow. This document is a broad overview of my contributions to the company's services without revealing any sensitive information. 
 
-### `npm run build`
+Because of the security reasons, I will avoid using any code snippets and rely just on explanation.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<!-- Durable Skills Section -->
+### Durable Skills
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<!-- Technical Projects Section -->
+### Technical Projects
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+My technical projects section is separated into 
+<ul>
+  <li>Intro Challenges</li>
+  <li>Design Forward Projects</li>
+  <li>Database Related Projects</li>
+  <li>Security Related Projects</li>
+  <li>React Related Projects</li>
+</ul>
+Feel free to look through to see all of the different frameworks and languages I have been practicing in the last year!
 
-## Learn More
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<!-- CONTACT -->
+## Contact
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Rene Shen / rene.shen0328@gmail.com  / 312-479-6444
 
-### Code Splitting
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
 
-### Making a Progressive Web App
+I'd like to thank Multiverse for their continued support throughout my apprenticeship process. They have truly paved the way into a new career for me by providing 24/7 accessible resources, constructive lessons, hands on project building exercises, and supportive coaches. Not to mention the support I got from the apprentices in my cohort. They're a big part of the reason why I can keep on pushing myself in this journey.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Of course, I'd also' like to thank Box for employing me and giving me such a great learning environment to hone my skills. 
+Being a Multiverse apprentice at Box has been the most valuable and incredible experience I've ever had. There are not many people who have the opportunity to not only jump into a totally different career path or have the opportunity to learn so much on the job. 
+Being a boxer has helped me improve in so many different ways with the help of all the Boxers I’ve encountered especially my teammates. The fact that we’re constantly reminding ourselves to be an owner and to make mom proud has kept me working at being my best self every single day.
 
-### Advanced Configuration
+A special thanks to E-commerce team at Box. The people on the team has showed me a different way of working. They've showed me that learning is a life long process, and being kind and reasonable to others and oneself is crucial while working hard and giving our best at doing what we love. It's been such an amazing journey to learn from all these incredible and knowledgeable engineers, PMs, and designers.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+I’m extremely grateful for Box and Multiverse to give me this opportunity. As a result I'm able to jump from a professional baker to a full-time software engineer in such a short time period.
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
