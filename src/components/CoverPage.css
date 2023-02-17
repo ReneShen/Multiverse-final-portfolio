@@ -1,0 +1,85 @@
+.cover-page {
+  min-height: 100vh;
+  text-align: left;
+}
+
+.wrapper {
+  min-height: 70vh;
+  display: flex;
+  justify-content: space-around;
+  padding: 105px;
+  background: linear-gradient(135deg, #f6f6f6 50%, #CA9F6B calc(50% + 1px));
+}
+
+.left-div {
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  width: auto;
+}
+
+.right-div {
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  width: 33vw;
+  justify-content: flex-end;
+}
+
+.portrait-img {
+  height:450px;
+  width: auto;
+  max-width: 350px;
+  margin-top: 11px;
+  box-shadow: 4px 4px 10px rgba(0, 74, 68, .25);
+}
+
+/* .arrow-down-img {
+  visibility: hidden;
+  transform: rotate(90deg);
+  height: 50px;
+  width: auto;
+} */
+
+.large-font {
+  font-size: 68px;
+  font-weight: 300;
+  margin: 0;
+}
+
+.sub-title {
+  margin-bottom: -12px;
+  color: #444;
+}
+
+.dot-wrapper {
+  height: 60px;
+  position: absolute;
+  margin-top: 30px;
+}
+
+.bouncing-dot {
+  visibility: visible;
+  animation-name: bouncing-animation;
+  animation-duration: 2.0s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in;
+  background: linear-gradient(to right, rgb(182, 244, 146), rgb(51, 139, 147));
+  height: 21px;
+  width: 21px;
+  border-radius: 50px;
+}
+
+@keyframes bouncing-animation {
+  0% { margin-top: 0px; }
+  25% { margin-top: 3.5px; }
+  50% { margin-top: 5px; }
+  75% { margin-top: 8.5px; }
+  100% { margin-top: 10px; }
+}
+
+@media only screen and (min-height:800px) {
+  .dot-wrapper {
+    margin-top: 130px;
+  }
+}
