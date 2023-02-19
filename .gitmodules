@@ -28,3 +28,6 @@
 [submodule "technical-projects/react-related-projects/dog-adoption-app"]
 	path = technical-projects/react-related-projects/dog-adoption-app
 	url = https://github.com/ReneShen/dog-adoption-frontend.git
+[submodule "technical-projects/database-related-projects/handlebars-demo"]
+	path = technical-projects/database-related-projects/handlebars-demo
+	url = https://github.com/reneshen0328/Handlebars-demo.git
