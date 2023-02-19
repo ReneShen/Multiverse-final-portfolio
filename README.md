@@ -40,12 +40,19 @@ Because of the security reasons, I will avoid using any code snippets and rely j
 <!-- Technical Projects Section -->
 ### Technical Projects
 
-My technical projects section is separated into 
+My technical projects section is separated into: 
 <ul>
   <li>Intro to Code Projects</li>
   <li>Database Related Projects</li>
   <li>React Related Projects</li>
 </ul>
+
+My favorite projects created:
+<ul>
+  <li><a href="https://github.com/team-fire-project/online-app.git">StockHome - an inventory online app</a></li>
+  <li><a href="https://github.com/ReneShen/bakery-app.git">Dog Adoption Center</a></li>
+</ul>
+
 Feel free to look through to see all of the different frameworks and languages I have been practicing in the last year!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
