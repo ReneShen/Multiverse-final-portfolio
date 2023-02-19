@@ -19,3 +19,9 @@
 [submodule "technical-projects/intro-to-code-projects/OOP-Challenge---Scooter-hire-system"]
 	path = technical-projects/intro-to-code-projects/OOP-Challenge---Scooter-hire-system
 	url = https://github.com/ReneShen/OOP-Challenge---Scooter-hire-system.git
+[submodule "technical-projects/react-related-projects/bakery-app"]
+	path = technical-projects/react-related-projects/bakery-app
+	url = https://github.com/ReneShen/bakery-app.git
+[submodule "technical-projects/react-related-projects/intro-to-react-tic-tac-toe"]
+	path = technical-projects/react-related-projects/intro-to-react-tic-tac-toe
+	url = https://github.com/ReneShen/intro-to-react-tic-tac-toe.git
