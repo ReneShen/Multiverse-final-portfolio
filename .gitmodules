@@ -1,3 +1,21 @@
 [submodule "technical-projects/intro-chanlleges/TDD---Classes--Inheritance"]
 	path = technical-projects/intro-chanlleges/TDD---Classes--Inheritance
 	url = https://github.com/ReneShen/TDD---Classes--Inheritance.git
+[submodule "technical-projects/intro-chanlleges/OOP-Challenge---Scooter-hire-system"]
+	path = technical-projects/intro-chanlleges/OOP-Challenge---Scooter-hire-system
+	url = https://github.com/ReneShen/OOP-Challenge---Scooter-hire-system.git
+[submodule "technical-projects/intro-chanlleges/Challenge----RPG-Map-Spawn"]
+	path = technical-projects/intro-chanlleges/Challenge----RPG-Map-Spawn
+	url = https://github.com/ReneShen/Challenge----RPG-Map-Spawn.git
+[submodule "technical-projects/intro-chanlleges/odin-recipes"]
+	path = technical-projects/intro-chanlleges/odin-recipes
+	url = https://github.com/ReneShen/odin-recipes.git
+[submodule "technical-projects/intro-to-code-projects/odin-recipes"]
+	path = technical-projects/intro-to-code-projects/odin-recipes
+	url = https://github.com/ReneShen/odin-recipes.git
+[submodule "technical-projects/intro-to-code-projects/Challenge----RPG-Map-Spawn"]
+	path = technical-projects/intro-to-code-projects/Challenge----RPG-Map-Spawn
+	url = https://github.com/ReneShen/Challenge----RPG-Map-Spawn.git
+[submodule "technical-projects/intro-to-code-projects/OOP-Challenge---Scooter-hire-system"]
+	path = technical-projects/intro-to-code-projects/OOP-Challenge---Scooter-hire-system
+	url = https://github.com/ReneShen/OOP-Challenge---Scooter-hire-system.git
