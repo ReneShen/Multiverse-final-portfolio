@@ -1,15 +1,3 @@
-[submodule "technical-projects/intro-chanlleges/TDD---Classes--Inheritance"]
-	path = technical-projects/intro-chanlleges/TDD---Classes--Inheritance
-	url = https://github.com/ReneShen/TDD---Classes--Inheritance.git
-[submodule "technical-projects/intro-chanlleges/OOP-Challenge---Scooter-hire-system"]
-	path = technical-projects/intro-chanlleges/OOP-Challenge---Scooter-hire-system
-	url = https://github.com/ReneShen/OOP-Challenge---Scooter-hire-system.git
-[submodule "technical-projects/intro-chanlleges/Challenge----RPG-Map-Spawn"]
-	path = technical-projects/intro-chanlleges/Challenge----RPG-Map-Spawn
-	url = https://github.com/ReneShen/Challenge----RPG-Map-Spawn.git
-[submodule "technical-projects/intro-chanlleges/odin-recipes"]
-	path = technical-projects/intro-chanlleges/odin-recipes
-	url = https://github.com/ReneShen/odin-recipes.git
 [submodule "technical-projects/intro-to-code-projects/odin-recipes"]
 	path = technical-projects/intro-to-code-projects/odin-recipes
 	url = https://github.com/ReneShen/odin-recipes.git
@@ -25,3 +13,15 @@
 [submodule "technical-projects/react-related-projects/intro-to-react-tic-tac-toe"]
 	path = technical-projects/react-related-projects/intro-to-react-tic-tac-toe
 	url = https://github.com/ReneShen/intro-to-react-tic-tac-toe.git
+[submodule "technical-projects/database-related-project/restful-api"]
+	path = technical-projects/database-related-project/restful-api
+	url = https://github.com/ReneShen/restful-api.git
+[submodule "technical-projects/database-related-project/TV-list-server"]
+	path = technical-projects/database-related-project/TV-list-server
+	url = https://github.com/ReneShen/TV-list-server.git
+[submodule "technical-projects/database-related-projects/TDD-for-Squelize"]
+	path = technical-projects/database-related-projects/TDD-for-Squelize
+	url = https://github.com/ReneShen/TDD-for-Squelize.git
+[submodule "technical-projects/database-related-projects/online-app"]
+	path = technical-projects/database-related-projects/online-app
+	url = https://github.com/team-fire-project/online-app.git
