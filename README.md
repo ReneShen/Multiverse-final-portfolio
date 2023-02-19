@@ -44,10 +44,8 @@ Because of the security reasons, I will avoid using any code snippets and rely j
 
 My technical projects section is separated into 
 <ul>
-  <li>Intro Challenges</li>
-  <li>Design Forward Projects</li>
+  <li>Intro to Code Projects</li>
   <li>Database Related Projects</li>
-  <li>Security Related Projects</li>
   <li>React Related Projects</li>
 </ul>
 Feel free to look through to see all of the different frameworks and languages I have been practicing in the last year!
