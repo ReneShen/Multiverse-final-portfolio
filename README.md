@@ -1,12 +1,10 @@
 <a name="readme-top"></a>
 
-  <h3 align="center">Multiverse Final Portfolio (Rene)</h3>
+<h3 align="center">Multiverse Final Portfolio (Rene)</h3>
 
-  <p align="center">
-    This repo is a collection of some of my learning contribution during my 2021-2023 apprenticeship at Box sponsored by Multiverse.
-  </p>
-</div>
-
+<p align="center">
+  This repo is a collection of some of my learning contribution during my 2021-2023 apprenticeship at Box sponsored by Multiverse.
+</p>
 
 
 <!-- TABLE OF CONTENTS -->
