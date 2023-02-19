@@ -50,7 +50,7 @@ My technical projects section is separated into:
 My favorite projects created:
 <ul>
   <li><a href="https://github.com/team-fire-project/online-app.git">StockHome - an inventory online app</a></li>
-  <li><a href="https://github.com/ReneShen/bakery-app.git">Dog Adoption Center</a></li>
+  <li><a href="https://github.com/ReneShen/dog-adoption-frontend.git">Dog Adoption Center</a></li>
 </ul>
 
 Feel free to look through to see all of the different frameworks and languages I have been practicing in the last year!
