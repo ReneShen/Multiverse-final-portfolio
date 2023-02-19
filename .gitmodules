@@ -25,3 +25,6 @@
 [submodule "technical-projects/database-related-projects/restful-api"]
 	path = technical-projects/database-related-projects/restful-api
 	url = https://github.com/ReneShen/restful-api.git
+[submodule "technical-projects/react-related-projects/dog-adoption-app"]
+	path = technical-projects/react-related-projects/dog-adoption-app
+	url = https://github.com/ReneShen/dog-adoption-frontend.git
