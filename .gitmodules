@@ -1,21 +1,9 @@
-[submodule "technical-projects/intro-to-code-projects/odin-recipes"]
-	path = technical-projects/intro-to-code-projects/odin-recipes
-	url = https://github.com/ReneShen/odin-recipes.git
-[submodule "technical-projects/intro-to-code-projects/Challenge----RPG-Map-Spawn"]
-	path = technical-projects/intro-to-code-projects/Challenge----RPG-Map-Spawn
-	url = https://github.com/ReneShen/Challenge----RPG-Map-Spawn.git
-[submodule "technical-projects/intro-to-code-projects/OOP-Challenge---Scooter-hire-system"]
-	path = technical-projects/intro-to-code-projects/OOP-Challenge---Scooter-hire-system
-	url = https://github.com/ReneShen/OOP-Challenge---Scooter-hire-system.git
 [submodule "technical-projects/react-related-projects/bakery-app"]
 	path = technical-projects/react-related-projects/bakery-app
 	url = https://github.com/ReneShen/bakery-app.git
 [submodule "technical-projects/react-related-projects/intro-to-react-tic-tac-toe"]
 	path = technical-projects/react-related-projects/intro-to-react-tic-tac-toe
 	url = https://github.com/ReneShen/intro-to-react-tic-tac-toe.git
-[submodule "technical-projects/database-related-projects/TDD-for-Squelize"]
-	path = technical-projects/database-related-projects/TDD-for-Squelize
-	url = https://github.com/ReneShen/TDD-for-Squelize.git
 [submodule "technical-projects/database-related-projects/online-app"]
 	path = technical-projects/database-related-projects/online-app
 	url = https://github.com/team-fire-project/online-app.git
@@ -31,3 +19,15 @@
 [submodule "technical-projects/database-related-projects/handlebars-demo"]
 	path = technical-projects/database-related-projects/handlebars-demo
 	url = https://github.com/reneshen0328/Handlebars-demo.git
+[submodule "technical-projects/intro-chanlleges/Challenge----RPG-Map-Spawn"]
+	path = technical-projects/intro-chanlleges/Challenge----RPG-Map-Spawn
+	url = https://github.com/ReneShen/Challenge----RPG-Map-Spawn.git
+[submodule "technical-projects/intro-chanlleges/OOP-Challenge---Scooter-hire-system"]
+	path = technical-projects/intro-chanlleges/OOP-Challenge---Scooter-hire-system
+	url = https://github.com/ReneShen/OOP-Challenge---Scooter-hire-system.git
+[submodule "technical-projects/intro-chanlleges/odin-recipes"]
+	path = technical-projects/intro-chanlleges/odin-recipes
+	url = https://github.com/ReneShen/odin-recipes.git
+[submodule "technical-projects/database-related-projects/TDD-for-Squelize"]
+	path = technical-projects/database-related-projects/TDD-for-Squelize
+	url = https://github.com/ReneShen/TDD-for-Squelize.git
