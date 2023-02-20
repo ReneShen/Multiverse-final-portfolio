@@ -12,8 +12,8 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#overview">Overview</a></li>
-    <li><a href="#durable">Durable Skills (durable_projects)</a></li>
-    <li><a href="#technical">Technical Projects (technical_projects)</a></li>
+    <li><a href="#durable">Durable Skills</a></li>
+    <li><a href="#technical">Technical Projects</a></li>
     <li><a href="#contact">Contact Me</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -32,8 +32,15 @@ Because of the security reasons, I will avoid using any code snippets and rely j
 <!-- Durable Skills Section -->
 ### Durable Skills
 
-
-
+My durable skill is separated into: 
+<ul>
+  <li>Problem Solving</li>
+  <li>Communication</li>
+  <li>Involved in Teams and Communities</li>
+  <li>Taking Initiative</li>
+  <li>Learn from Others 24/7</li>
+  <li>Multiverse Community Event Attended</li>
+</ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -42,11 +49,10 @@ Because of the security reasons, I will avoid using any code snippets and rely j
 
 My technical projects section is separated into: 
 <ul>
-  <li>Intro Challenges</li>
-  <li>Design Forward Projects</li>
+  <li>Intro to Code Challenges</li>
   <li>Database Related Projects</li>
-  <li>Security Related Projects</li>
   <li>React Related Projects</li>
+  <li>Skills Learned on the Job</li>
 </ul>
 
 My favorite projects created:
@@ -65,8 +71,6 @@ Feel free to look through to see all of the different frameworks and languages I
 Rene Shen / rene.shen0328@gmail.com  / 312-479-6444
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
