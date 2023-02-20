@@ -24,8 +24,18 @@ While creating different projects at Multiverse bootcamps, there are so many val
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Skills Section -->
-### Skills
+## Skills
+### January - April 2023
+<ul>
+  <li>React Related</li>
+  <ul>
+    <li></li>
+  </ul>
+</ul>
 
+### May - August 2023
+### September - December 2023
+### January - March 2024
 
 
 

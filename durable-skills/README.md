@@ -24,7 +24,15 @@ I believe one of the biggest reasons why Box was rated second best place to work
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Durable Skills Section -->
-### Durable Skills
+## Durable Skills
+### January - April 2023
+<ul>
+  <li></li>
+</ul>
+
+### May - August 2023
+### September - December 2023
+### January - March 2024
 
 
 
