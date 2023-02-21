@@ -26,9 +26,9 @@ function CoverPage() {
           I’m used to learning fast under high-pressure-environment, and am looking to collaborate and assist in developing and modifying websites and user interfaces
         </h5>
         <p className='large-font '>
-          CREATIVE 
+          FULL STACK 
           <br />
-          PROGRAMMER
+          SOFTWARE ENGINEER
         </p>
       </div>
       </div>
