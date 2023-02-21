@@ -24,67 +24,68 @@ I believe one of the biggest reasons why Box was rated second best place to work
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Durable Skills Section -->
-### Durable Skills
+## Durable Skills
+<!-- Problem Solving -->
+### Problem Solving
 <ul>
-  <!-- Problem Solving -->
-  <li>Problem Solving</li>
-  <ul>
-    <li>Identify problem</li> 
-    <li>Reproduce problem</li> 
-    <li>Solve problem</li> 
-  </ul>
-  <br/>
-  <p>Learned how to identify the core problem using ticket descriptions and reproducing the bugs. Meanwhile learned how to solve problems using company and internet documentations, team and Stackoverflow conversations, and debugging skills from solving team JIRA tickets.</p>
+  <li>Identify problem</li> 
+  <li>Reproduce problem</li> 
+  <li>Solve problem</li> 
+</ul>
+<br/>
+<p>Learned how to identify the core problem using ticket descriptions and reproducing the bugs. Meanwhile learned how to solve problems using company and internet documentations, team and Stackoverflow conversations, and debugging skills from solving team JIRA tickets.</p>
 
-  <!-- Communication -->
-  <li>Communication</li>
-  <ul>
-    <li>Ask questions with key points</li> 
-    <li>Run meetings with a set agenda</li>
-    <li>Providing feedback constantly</li>
-    <li>Practice ELI5(Explain Like I'm 5)</li>
-    <li>Practice tunnel analysis</li>
-  </ul>
-  <br/>
-  <p>Since day one working at E-commerce team at Box, my manager has expressed the importance of providing feedback. I found out soon enough that constanly giving the team my point of view on certain things not only helps them understand how to provide me more specific resources to learn better, it also helps the future teammates that join the team to adapt the team culture and codebase faster. Additionally my manager and supervisor at my team at Box has helped me understand the importance of ELI5(Explain Like I'm 5). There's no other person that will understand the investigation project I worked on. Being able to practice ELI5 reduce a lot of confusion, and is able to help others to understand how to provide me resources and directions in a shorter time period. Meanwhile One of the biggest way of learning in a remote environment in my team at Box is leveraging the Watercooler meeting time. Essentially this is a meeting where developers discussed about the issues or observations with the team and come up with some further action items or solutions. These meetings often take up many engineers attention, and to make these meeting time as efficient as possible, practicing presenting skills, such as tunnel analysis becomes crucial</p> 
+<!-- Communication -->
+### Communication
+<ul>
+  <li>Ask questions with key points</li> 
+  <li>Run meetings with a set agenda</li>
+  <li>Providing feedback constantly</li>
+  <li>Practice ELI5(Explain Like I'm 5)</li>
+  <li>Practice tunnel analysis</li>
+</ul>
+<br/>
+<p>Since day one working at E-commerce team at Box, my manager has expressed the importance of providing feedback. I found out soon enough that constanly giving the team my point of view on certain things not only helps them understand how to provide me more specific resources to learn better, it also helps the future teammates that join the team to adapt the team culture and codebase faster. Additionally my manager and supervisor at my team at Box has helped me understand the importance of ELI5(Explain Like I'm 5). There's no other person that will understand the investigation project I worked on. Being able to practice ELI5 reduce a lot of confusion, and is able to help others to understand how to provide me resources and directions in a shorter time period. Meanwhile One of the biggest way of learning in a remote environment in my team at Box is leveraging the Watercooler meeting time. Essentially this is a meeting where developers discussed about the issues or observations with the team and come up with some further action items or solutions. These meetings often take up many engineers attention, and to make these meeting time as efficient as possible, practicing presenting skills, such as tunnel analysis becomes crucial</p> 
 
-  <!-- Involved in Teams and Communities -->
-  <li>Involved in Teams and Communities</li>
-  <ul>
-    <li>Organize and hold events</li>
-    <li>Participate in community events</li>
-    <li>Provide feedbacks and let teammates know my appreciation often</li>
-    <li>Share common interests with others</li>
-    <li>Contribute my value back to communities often</li>
-  </ul>
-  <br/>
-  <p>Joining the team through pandemic makes me realize that it's even more essential to think about how to build a better relationship with each team member. For example, I set a weekly reminder on Google canlendar to make sure I talked to most of the team member at least once per week. Additionally, I organized and held a cupcake baking event and a Secret Santa event with the team through zoom calls. I also think it's important to share common interests with teammates during lunch or after working hours, ex. I sometimes share self-baked desserts with teammates at lunch and share some recipes with the teammates that also love baking at home. Participating different community events are also helpful in this espect. For example, I participated in Box Learn Fest to learn some must have skills as a Boxer(Make mom proud, Overcoming Bias, etc.), Box API(Asian Pacific Islander) community events, and Box Lunch events.
-  <br/>
-  On the other hand, it is equally important to contribute my value back to communities often. At Multiverse, I have participated some Multiverse "Meet the Apprentice" meeting to share some of my experiences as an apprentice while working at Box. At Box, I've presented some interesting skills learned from Multiverse to the team members at Box and presented a Multiverse project to an Engineer All Hands meeting at Box while sharing some thoughts and experiences of being an apprentice.
-  </p>
+<!-- Involved in Teams and Communities -->
+### Involved in Teams and Communities
+<ul>
+  <li>Organize and hold events</li>
+  <li>Participate in community events</li>
+  <li>Provide feedbacks and let teammates know my appreciation often</li>
+  <li>Share common interests with others</li>
+  <li>Contribute my value back to communities often</li>
+</ul>
+<br/>
+<p>Joining the team through pandemic makes me realize that it's even more essential to think about how to build a better relationship with each team member. For example, I set a weekly reminder on Google canlendar to make sure I talked to most of the team member at least once per week. Additionally, I organized and held a cupcake baking event and a Secret Santa event with the team through zoom calls. I also think it's important to share common interests with teammates during lunch or after working hours, ex. I sometimes share self-baked desserts with teammates at lunch and share some recipes with the teammates that also love baking at home. Participating different community events are also helpful in this espect. For example, I participated in Box Learn Fest to learn some must have skills as a Boxer(Make mom proud, Overcoming Bias, etc.), Box API(Asian Pacific Islander) community events, and Box Lunch events.
+<br/>
+On the other hand, it is equally important to contribute my value back to communities often. At Multiverse, I have participated some Multiverse "Meet the Apprentice" meeting to share some of my experiences as an apprentice while working at Box. At Box, I've presented some interesting skills learned from Multiverse to the team members at Box and presented a Multiverse project to an Engineer All Hands meeting at Box while sharing some thoughts and experiences of being an apprentice.
+</p>
 
-  <!-- Taking Initiative -->
-  <li>Taking Initiative</li>
-  <ul>
-    <li>Solving tickets independantly</li>
-    <li>Ask for resources and directions instead of a direct answer</li>
-    <li>Always update documents and clean up code while working</li>
-  </ul>
-  <br/>
-  <p>While solving more and more, bigger and bigger tickets at work, I was able to develop the habit of discovering more code that needs improvment while solving another ticket, create a ticket for the code that needs improvment, complete and clean the codebase better, then document all the observations, solving process, and solutions on my own. Being an engineer, often times we read through a lot of documentations and try to find the solutions on our own. This means a deprecated documentation might contribute to unnecessary engineer time and might even influence a company's profit in the long run. With that being said, I often update the deprecated documentations I encountered at Box.</p>
+<!-- Taking Initiative -->
+### Taking Initiative
+<ul>
+  <li>Solving tickets independantly</li>
+  <li>Ask for resources and directions instead of a direct answer</li>
+  <li>Always update documents and clean up code while working</li>
+</ul>
+<br/>
+<p>While solving more and more, bigger and bigger tickets at work, I was able to develop the habit of discovering more code that needs improvment while solving another ticket, create a ticket for the code that needs improvment, complete and clean the codebase better, then document all the observations, solving process, and solutions on my own. Being an engineer, often times we read through a lot of documentations and try to find the solutions on our own. This means a deprecated documentation might contribute to unnecessary engineer time and might even influence a company's profit in the long run. With that being said, I often update the deprecated documentations I encountered at Box.</p>
 
-  <!-- Learn from Others 24/7 -->
-  <li>Learn from Others 24/7</li>
-  <ul>
-    <li>Review others' PR(Pull Requests)</li>
-    <li>Attend to Watercooler meetings</li>
-    <li>Ask for pair programming opportunities</li>
-  </ul>
-  <br/>
-  <p>I participated in company Hackathon event and learned how a Project Manager leads a team with data science, designer, and software engineers to brainstorm and execute the most suitable project for the team, and how an experienced engineer creates an MVP(Minimum Viable Product) in a short time period. Learn how other engineers write their code by reviewing their PRs(Pull Requests) and attending watercooler meetings when an engineer present an issue or thoughts that needed a whole team's attention. The other great way to learn how other engineers organize their projects and solve problems is through pair programming.</p>
+<!-- Learn from Others 24/7 -->
+### Learn from Others 24/7
+<ul>
+  <li>Review others' PR(Pull Requests)</li>
+  <li>Attend to Watercooler meetings</li>
+  <li>Ask for pair programming opportunities</li>
+</ul>
+<br/>
+<p>I participated in company Hackathon event and learned how a Project Manager leads a team with data science, designer, and software engineers to brainstorm and execute the most suitable project for the team, and how an experienced engineer creates an MVP(Minimum Viable Product) in a short time period. Learn how other engineers write their code by reviewing their PRs(Pull Requests) and attending watercooler meetings when an engineer present an issue or thoughts that needed a whole team's attention. The other great way to learn how other engineers organize their projects and solve problems is through pair programming.</p>
 </ul>
 
-### Multiverse Community Event Attended
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Multiverse Community Event Attended
 <ul>
   <li>Introduction to Numerical Programming</li>
   <li>Problem Solving: A Software Engineers Perspective</li>
