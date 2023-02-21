@@ -1,7 +1,8 @@
 <a name="readme-top"></a>
 
-<h3 align="center">Multiverse Final Portfolio (Rene)</h3>
+<img width="1435" alt="Cover Page" src="https://user-images.githubusercontent.com/80661503/220252217-ad4782ee-cd80-4f1b-a4e0-aa0c6792ac7d.png">
 
+<h3 align="center">Multiverse Final Portfolio (Rene)</h3>
 <p align="center">
   This repo is a collection of some of my learning experiences and contributions during my 2021-2023 apprenticeship at Box sponsored by Multiverse.
 </p>
