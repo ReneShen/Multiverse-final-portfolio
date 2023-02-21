@@ -23,7 +23,7 @@
 <!-- Overview -->
 ## Overview
 
-During my time at Box, I delivered value through improvements and added functionality in existing E-commerce codebases while leading projects that drives company revenue, such as cancellation flow. This document is a broad overview of my contributions to the company's services without revealing any sensitive information. 
+During my time at Box, I delivered value through improvements and added functionality in existing E-commerce transaction codebases while leading projects that drives company revenue, such as cancellation flow. This document is a broad overview of my contributions to the company's services without revealing any sensitive information. 
 
 Because of the security reasons, I will avoid using any code snippets and rely just on explanation.
 
