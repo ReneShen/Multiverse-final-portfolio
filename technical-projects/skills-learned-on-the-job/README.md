@@ -32,6 +32,7 @@ While creating different projects at Multiverse bootcamps, there are so many val
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- TODO: 3-5 most important learned skill in each section in bold? -->
 <!-- Skills Section -->
 ## Skills
 ### February - April 2022
